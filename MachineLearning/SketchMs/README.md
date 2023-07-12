@@ -5,7 +5,7 @@ SketchMS is a program to make a sketch from picture that you have
 Install the required packages : pip install -r requirements.txt
 
 ## Dowload Pretrained Weight 
-Please download the weights from [GoogleDrive](https://drive.google.com/file/d/1t-HtOuC3Bs4wAbU3h4FUr2G2xPP6XgvR/view?usp=drive_link), and put it into the weight/ folder
+Please download the weights from [GoogleDrive](https://drive.google.com/file/d/1t-HtOuC3Bs4wAbU3h4FUr2G2xPP6XgvR/view?usp=drive_link), and put it into the weights/ folder
 
 ## Test
 ```Shell
