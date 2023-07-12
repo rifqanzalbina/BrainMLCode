@@ -1,0 +1,6 @@
+torch
+torchvision
+Pillow
+gradio
+torchtext
+tqdm
