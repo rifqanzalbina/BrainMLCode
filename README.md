@@ -6,6 +6,13 @@ Machine learning is a subfield of artificial inteligence (AI) that focuses on th
 - PyTorch
 - Hugging Face Transformers
 - Scikit-Learn
+- Theano
+- OpenCV
+- Torch
+- Seaborn
+- Matplotlib
+- Pandas
+- Keras
 
 ## About This project
 What this project about make?
