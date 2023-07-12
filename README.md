@@ -8,5 +8,18 @@ Machine learning is a subfield of artificial inteligence (AI) that focuses on th
 - Scikit-Learn
 
 ## About This project
-what is this project is about?
-We analyze the csv file by training the machine to produce appropriate and good output or information, so this is machine learning where we have to first train the pattern we make to analyze the csv file
+What this project about make?
+- Image Recognition
+- Voice Recognition
+- Traffic Prediction
+- Videos Surveillance
+- Product recommendations
+- Self-driving Cars
+- Social media Platform
+- Spam and Malware Filtering
+- Personal Assistant
+- Search Engine
+- Stock Market Trading
+- Fraud and Preference
+
+
