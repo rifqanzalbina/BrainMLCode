@@ -22,4 +22,6 @@ What this project about make?
 - Stock Market Trading
 - Fraud and Preference
 
+## Credit
+This project will always be continue , so stay soon 😏
 
