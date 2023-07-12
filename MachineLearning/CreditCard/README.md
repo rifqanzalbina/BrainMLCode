@@ -18,3 +18,6 @@ For the data .csv you can dowload [here](https://drive.google.com/file/d/1I4uDT9
 - Matplotlib
 - Sklearn
 - Pandas
+
+## Make by
+rifqanzalbina
