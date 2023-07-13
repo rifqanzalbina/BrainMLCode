@@ -1,5 +1,5 @@
 # About
-All this project is goona update always so stay soon
+All this project is gonna update always so stay soon
 
 # Made by 
 - rifqanzalbina
