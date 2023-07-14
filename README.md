@@ -18,7 +18,7 @@ Machine learning is a subfield of artificial inteligence (AI) that focuses on th
 What this project about make?
 - Image Recognition
 - Speech Recognition
-- CreditCard Prediction
+- CreditCard Prediction ✔️
 - Videos Surveillance
 - Product recommendations
 - Self-driving Cars
