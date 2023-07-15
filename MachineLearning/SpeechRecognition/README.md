@@ -1,9 +1,9 @@
 # SpeechRecognition 
-Speech is a field of artificial intelligence (AI) and machine learning that involves converting spoken languange into written text. It enanbles computers to understand 
+Speech is a field of artificial intelligence (AI) and machine learning that involves converting spoken languange into written text. It enables computers to understand 
 and interupt human speech, opening up possibilities for various applications such as transcription services, voice assistants, and voice-controlled systems 
 
 A Speech recognition project using Python and ML typically involves training a model to recognize speech patterns and convert them into text. Here's high-level , SO what is
-beneif using Speech recognition in various Applications?
+benefit using Speech recognition in various Applications?
 
 1. Enchanced User Experience : Speech Recognition provides a natural and intuitive way for users to interact with technology instead of typing or clicking ,
    users can simply speak their commands or input. which can significantly improve the user experience and make interactions more convenient
