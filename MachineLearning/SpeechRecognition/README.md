@@ -24,3 +24,10 @@ beneif using Speech recognition in various Applications?
 8. Call Center Automation : Speech recognition can automate call center operations by converting spoken customer queries or commands into text, enabling faster and more
    accurate routing of calls or providing automated responses, This can improve customer service efficiency and reduce call handling times.
 
+## Library 
+- Pyttsx3
+- speechrecognition
+- Webbrowser
+- datetime
+- wikipedia
+
