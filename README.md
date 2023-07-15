@@ -19,7 +19,6 @@ What this project about make?
 - Image Recognition
 - Speech Recognition ✔️
 - CreditCard Prediction ✔️
-- Videos Surveillance
 - Product recommendations
 - Self-driving Cars
 - Social media Platform
