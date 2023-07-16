@@ -24,7 +24,7 @@ What this project about make?
 - Social media Platform
 - Spam and Malware Filtering
 - Personal Assistant
-- Search Engine
+- Search Engine ✔️
 - Stock Market Trading
 - Fraud and Preference
 - Sketch Ms ✔️
