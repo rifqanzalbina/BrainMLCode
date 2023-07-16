@@ -23,7 +23,7 @@ What this project about make?
 - Self-driving Cars
 - Social media Platform
 - Spam and Malware Filtering
-- Personal Assistant
+- Personal Assistant ✔️
 - Search Engine ✔️
 - Stock Market Trading
 - Fraud and Preference
