@@ -1,7 +1,7 @@
 # Wikipedia Chatbot / Search Engine
 
 A Wikipedia chatbot is an AI-powered program or project desgined to interact with users and provide information sourced from wikipedia, the online encyclopedia. it utilizes
-natural language processing and machine learning techniques to understand user queries and generate relevant responses using the vast knowledge avaliable on Wikipedia
+natural language processing and machine learning techniques to understand user queries and generate relevant responses using the vast knowledge available on Wikipedia
 
 The benefits of creating a Wikipedia chatbot include:
 
