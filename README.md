@@ -28,6 +28,7 @@ What this project about make?
 - Stock Market Trading
 - Fraud and Preference
 - Sketch Ms ✔️
+- Heart Disease ✔️
 ## Credit
 This project will always be continue , so stay soon 😏
 
