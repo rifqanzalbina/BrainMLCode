@@ -30,5 +30,5 @@ What this project about make?
 - Sketch Ms ✔️
 - Heart Disease ✔️
 ## Credit
-This project will always be continue , so stay soon 😏
+This project will be continue , so stay soon 😏
 
